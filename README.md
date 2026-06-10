@@ -1,4 +1,4 @@
-# 📚 Library Management System
+# 📚 Library-Management-System
 
 A full-stack **Library Management System** built with **Node.js**, **Express**, **SQLite**, and **Vanilla JavaScript**. Manage books, members, borrowings, returns, and overdue tracking — all from a clean, responsive web interface.
 
