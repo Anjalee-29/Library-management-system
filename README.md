@@ -22,7 +22,7 @@ A full-stack **Library Management System** built with **Node.js**, **Express**, 
 | Layer | Technology |
 |-------|-----------|
 | **Backend** | Node.js + Express.js |
-| **Database** | SQLite (via `sqlite3`) |
+| **Database** | SQLite (via `sql.js`) |
 | **Frontend** | HTML5 + CSS3 + Vanilla JS |
 | **API** | RESTful JSON API |
 
